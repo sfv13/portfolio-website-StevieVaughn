@@ -366,6 +366,12 @@ article .icon {
     border-radius: 2rem;
     width: 90%;
     height: 90%;
+    display: center;
+}
+
+.project-img-container {
+    display: grid;
+    place-items: center;
 }
 
 .project-title {
